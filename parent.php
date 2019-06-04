@@ -96,7 +96,7 @@
                                         <tbody>
                                             <tr>
                                                 <td>1</td>
-                                                <td>Shubham</td>
+                                                <td>Amarjeet</td>
                                                 <td>Prajapati</td>
                                                 <td>@Silentknight</td>
                                                 <td>17</td>
@@ -104,7 +104,7 @@
                                             </tr>
                                             <tr>
                                                 <td>2</td>
-                                                <td>Utsav</td>
+                                                <td>Jignesh</td>
                                                 <td>Vyas</td>
                                                 <td>@uv</td>
                                                 <td>20</td>
