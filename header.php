@@ -137,8 +137,8 @@
                         <!-- End Messages -->
                         <!-- ============================================================== -->
                         
-                       <a href="http://localhost/admin/admin/pages-login.html"><button type="button" class="btn btn-Secondary btn-lg">Login</button></a>
- <a href="http://localhost/admin/admin/register.php"><button type="button" class="btn btn-secondary btn-lg">Register</button></a> 
+                       <a href="pages-login.html"><button type="button" class="btn btn-Secondary btn-lg">Login</button></a>
+ <a href="pages-register.html"><button type="button" class="btn btn-secondary btn-lg">Register</button></a> 
                     </ul>
                     <!-- ============================================================== -->
                     <!-- User profile and search -->
