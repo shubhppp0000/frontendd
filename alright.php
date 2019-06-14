@@ -22,6 +22,7 @@ print_r($Student);
 </head>
 	<body>
 <?php foreach($Student as $i): ?>
+<h3><?php echo $i['Name'];?></h3>
 <h3><?php echo $i['Roll_No'];?></h3>
 <h3><?php echo $i['Age'];?></h3>
 <?php endforeach;?>
